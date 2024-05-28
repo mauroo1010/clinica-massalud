@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ClinicaFisioterapia
+comment1.params=cita
+comment1.target=void\ agregarCita(Cita)
+comment2.params=
+comment2.target=void\ mostrarCitas()
+comment3.params=paciente
+comment3.target=void\ eliminarCita(java.lang.String)
+numComments=4

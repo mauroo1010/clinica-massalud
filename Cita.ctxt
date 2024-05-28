@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cita
+comment1.params=paciente\ fecha\ hora
+comment1.target=Cita(java.lang.String,\ java.time.LocalDate,\ java.time.LocalTime)
+comment2.params=
+comment2.target=java.lang.String\ getPaciente()
+comment3.params=
+comment3.target=java.time.LocalDate\ getFecha()
+comment4.params=
+comment4.target=java.time.LocalTime\ getHora()
+numComments=5
